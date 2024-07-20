@@ -62,8 +62,5 @@ Technologies used in the project:
 
 <h2>💖Usage </h2>
 
-1. Open your browser and go to http://localhost:\[Port\].
-2. Create a new wiki page by clicking on the "New Page" button.
-3. Enter the title and content for the page and save it.
-4. Edit any existing page by navigating to it and clicking the "Edit" button.
-5. Use the search bar to find pages quickly.
+1. Open your live server.
+2. Use the search bar to find pages quickly and press "Enter".
